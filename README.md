@@ -8,4 +8,4 @@ Using this program, a table of the best moves was built.
 | | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10, J, Q, K | A |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 5-8 | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit |
-
+| 9 | Double | Double | Double | Double | Double | Double | Hit | Hit | Hit | Hit |
