@@ -32,3 +32,9 @@ Using this program, a table of the best moves was built.
 | 9, 9 | Split | Split | Split | Split | Split | Stand | Split | Split | Stand | Stand |
 | (10, J, Q, K), (10, J, Q, K) | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand |
 | A, A | Split | Split | Split | Split | Split | Split | Split | Split | Split | Split |
+
+## Probability of winning
+The probability of winning using this table is 48.9% since the average mathematical expectation of one game is -0.02175, which is more than when betting on red or black in roulette (48.6%).
+
+## Play
+This project also provides for user play; to do this, you need to create an instance of the BlackJack class and call the playPlayer method as written in the example Main.
