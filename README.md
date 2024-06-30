@@ -9,3 +9,8 @@ Using this program, a table of the best moves was built.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 5-8 | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit | Hit |
 | 9 | Double | Double | Double | Double | Double | Double | Hit | Hit | Hit | Hit |
+| 10 | Double | Double | Double | Double | Double | Double | Double | Double | Hit | Hit |
+| 11 | Double | Double | Double | Double | Double | Double | Double | Double | Double | Hit |
+| 12 | Hit | Hit | Stand | Stand | Stand | Hit | Hit | Hit | Hit | Hit |
+| 13 - 16 | Stand | Stand | Stand | Stand | Stand | Hit | Hit | Hit | Hit | Hit |
+| 17 - 20 | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand | Stand |
